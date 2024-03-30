@@ -1,0 +1,11 @@
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\bin\Debug\Nacho Opera.exe.config
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\bin\Debug\Nacho Opera.exe
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\bin\Debug\Nacho Opera.pdb
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\obj\Debug\Nacho Opera.csproj.AssemblyReference.cache
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\obj\Debug\Nacho_Opera.Form1.resources
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\obj\Debug\Nacho_Opera.Form2.resources
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\obj\Debug\Nacho_Opera.Properties.Resources.resources
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\obj\Debug\Nacho Opera.csproj.GenerateResource.cache
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\obj\Debug\Nacho Opera.csproj.CoreCompileInputs.cache
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\obj\Debug\Nacho Opera.exe
+C:\Users\minur\source\repos\Nacho Opera\Nacho Opera\obj\Debug\Nacho Opera.pdb
